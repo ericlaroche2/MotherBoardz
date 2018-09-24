@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="gray">#d5d5d5</color>
+    <color name="indigo">#030A3A</color>
+    <color name="lightPurple">#A0ADFF</color>
+    <color name="iris">#4C55B8</color>
+    <color name="seafoam">#4CB6B1</color>
+    <color name="white">#FFFFFF</color>
 </resources>

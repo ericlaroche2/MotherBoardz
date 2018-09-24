@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Products</string>
+    <string name="main_text">The product button will bring you to the list of all products. The tag button will show you all the tags
+    of the products and clicking on one tag will give you all the products that have the corresponding tag.</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="product">Products</string>
+    <string name="tag">Tags</string>
 </resources>
