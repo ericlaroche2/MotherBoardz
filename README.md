@@ -14,7 +14,7 @@ Extras
 - cute placeholder images for the tag list
 
 Products
-![products](producs.jpg)
+![products](products.jpg)
 
 tags
 ![tags](tags.jpg)
